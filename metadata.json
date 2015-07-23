@@ -1,0 +1,12 @@
+{
+  "name": "jaredjennings/screensaver",
+  "version": "0.1.0",
+  "author": "Jared Jennings",
+  "summary": "Provide the functionality of the screensaver module from CMITS (boilerplate)",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jaredjennings/puppet-cmits-screensaver",
+  "project_page": "https://github.com/jaredjennings/puppet-cmits-screensaver",
+  "issues_url": "https://github.com/jaredjennings/puppet-cmits-screensaver/issues",
+  "dependencies": []
+}
+
