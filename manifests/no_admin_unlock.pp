@@ -40,7 +40,7 @@ class screensaver::no_admin_unlock {
                 value => ['authenticate-session-owner', ''],
             }
         }
-        default: { unimplemented() }
+        default: { fail "unimplemented on ${::osfamily} ${::macosx_productversion_major}" }
     }
 }
 
